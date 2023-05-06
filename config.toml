@@ -10,8 +10,10 @@ theme = ["docsy"]
 enableGitInfo = true
 
 # Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
+#contentDir = "content/en"
+contentDir = "content/jp"
+#defaultContentLanguage = "en"
+defaultContentLanguage = "jp"
 defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
@@ -70,26 +72,37 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "Innovative Systems Lab."
+description = "Innovative Systems Lab."
 languageName ="English"
+contentDir = "content/en"
 # Weight used for sorting.
 weight = 1
-[languages.no]
-title = "Goldydocs"
-description = "Docsy er operativsystem for skyen"
-languageName ="Norsk"
-contentDir = "content/no"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
-
-[languages.fa]
-title = "اسناد گلدی"
-description = "یک نمونه برای پوسته داکسی"
-languageName ="فارسی"
-contentDir = "content/fa"
+[languages.jp]
+title = "Innovative Systems Lab."
+description = "Innovative Systems Lab."
+languageName ="日本語"
+contentDir = "content/jp"
+# Weight used for sorting.
+weight = 1
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
+
+#[languages.no]
+#title = "Goldydocs"
+#description = "Docsy er operativsystem for skyen"
+#languageName ="Norsk"
+#contentDir = "content/no"
+#time_format_default = "02.01.2006"
+#time_format_blog = "02.01.2006"
+
+#[languages.fa]
+#title = "اسناد گلدی"
+#description = "یک نمونه برای پوسته داکسی"
+#languageName ="فارسی"
+#contentDir = "content/fa"
+#time_format_default = "2006.01.02"
+#time_format_blog = "2006.01.02"
 
 [markup]
   [markup.goldmark]

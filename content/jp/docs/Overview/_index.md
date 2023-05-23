@@ -3,7 +3,7 @@ title: "Overview"
 linkTitle: "Overview"
 weight: 1
 description: >
-  Here's where your user finds out if your project is for them.
+  広い分野の科学技術を組み合わせて課題解決を目指します。
 ---
 
 {{% pageinfo %}}

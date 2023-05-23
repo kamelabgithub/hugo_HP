@@ -11,12 +11,28 @@ This is the **blog** section. It has two categories: News and Releases.
 
 Files in these directories will be listed in reverse chronological order.
 
-a\
-b\
-c\
+[教員]
 
-亀田\
-foo bar\
-abc abc
+亀田　敏弘
 
+村上　正秀（名誉教授）
+
+
+[大学院生]
+
+小宮
+
+染谷
+
+村上
+
+山﨑
+
+屋良
+
+[卒論生]
+
+栗原
+
+田中
 

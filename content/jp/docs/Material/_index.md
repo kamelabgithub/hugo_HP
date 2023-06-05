@@ -1,11 +1,9 @@
 ---
-categories: ["Examples", "Placeholders"]
-tags: ["test","docs"] 
-title: "Getting Started"
-linkTitle: "Getting Started"
-weight: 5
+title: "Radiation tollerance evaluation and appropriate configuration of materials for space use"
+linkTitle: "Radiation tollerance evaluation and appropriate configuration of materials for space use"
+weight: 4
 description: >
-  What does your user need to know to try your project?
+   宇宙利用を想定して材料の宇宙放射線耐性に応じた適切なコンフィギュレーションを提案します。
 ---
 
 {{% pageinfo %}}

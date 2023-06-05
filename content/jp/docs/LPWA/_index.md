@@ -1,9 +1,9 @@
 ---
-title: "Overview"
-linkTitle: "Overview"
+title: "Communications under complex disaster"
+linkTitle: "Communications under complex disaster"
 weight: 1
 description: >
-  広い分野の科学技術を組み合わせて課題解決を目指します。
+  LPWAを活用して複合災害下でも通信のレジリエンスを担保します。
 ---
 
 {{% pageinfo %}}

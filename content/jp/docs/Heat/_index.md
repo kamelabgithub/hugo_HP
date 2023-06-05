@@ -1,11 +1,9 @@
 ---
-categories: ["Examples", "Placeholders"]
-tags: ["test","docs"] 
-title: "Getting Started"
-linkTitle: "Getting Started"
-weight: 5
+title: "Heat wave simulation and its improvement"
+linkTitle: "Heat wave simulation and its improvement"
+weight: 3
 description: >
-  What does your user need to know to try your project?
+   大規模センシングを実現して熱波シミュレーションの精度向上を図り熱中症被害の低減を図ります。
 ---
 
 {{% pageinfo %}}

@@ -1,31 +1,29 @@
 ---
-date: 2018-10-06
-title: "Easy documentation with Docsy"
-linkTitle: "Announcing Docsy"
-description: "The Docsy Hugo theme lets project maintainers and contributors focus on content, not on reinventing a website infrastructure from scratch"
-author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))
+date: 2023-04-06
+title: "本年度は大幅にメンバが増えました"
+linkTitle: " 2023年度新歓"
+description: "大学院生 ５名、卒論生２名"
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
-  params:
-    byline: "Photo: Riona MacNamara / CC-BY-CA"
 ---
 
-**This is a typical blog post that includes images.**
+**太字になりますThis is a typical blog post that includes images.**
 
 The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.
 
-## Including images
+## 見出しになりますIncluding images
 
-Here's an image (`featured-sunset-get.png`) that includes a byline and a caption.
+Here's an image (`featured-sunset-get.jpg`) that includes a byline and a caption.
 
-{{< imgproc sunset Fill "600x300" >}}
-Fetch and scale an image in the upcoming Hugo 0.43.
+{{< imgproc featured-sunset-get Fill "600x300" >}}
+灯禾軒にて
 {{< /imgproc >}}
 
 The front matter of this post specifies properties to be assigned to all image resources:
 
 ```
+グレーで囲まれます
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"

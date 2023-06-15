@@ -1,0 +1,17 @@
+---
+title: "亀田　敏弘"
+linkTitle: "亀田　敏弘"
+weight: 1
+type: docs
+description: >
+  システム情報系　准教授  
+resources:
+- src: "**.{png,jpg}"
+---
+
+{{< imgproc shadow Fill "160x90">}}
+{{< /imgproc >}}
+
+TEST
+
+

@@ -9,9 +9,8 @@ resources:
 - src: "**.{png,jpg}"
 ---
 
-{{< imgproc shadow Fill "160x90">}}
+{{< imgproc shadow Fill "160x160">}}
 {{< /imgproc >}}
 
-TEST
 
 

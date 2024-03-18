@@ -9,7 +9,7 @@ resources:
 ---
 
 
-{{< imgproc 2023welcomeP Fill "600x300" >}}
+{{< imgproc 2023welcomeP Fill "2000x1500" >}}
 {{< /imgproc >}} 
 
 

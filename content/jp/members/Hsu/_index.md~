@@ -1,10 +1,10 @@
 ---
-title: "亀田　敏弘"
-linkTitle: "亀田　敏弘"
-weight: 1
+title: "屋良　朝章"
+linkTitle: "屋良　朝章"
+weight: 25
 type: docs
 description: >
-  システム情報系　教授  
+  博士前期課程　1年
 resources:
 - src: "**.{png,jpg}"
 ---
@@ -12,5 +12,6 @@ resources:
 {{< imgproc shadow Fill "160x160">}}
 {{< /imgproc >}}
 
+TEST
 
 

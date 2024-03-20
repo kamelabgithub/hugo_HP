@@ -1,16 +1,17 @@
 ---
-title: "亀田　敏弘"
-linkTitle: "亀田　敏弘"
-weight: 1
+title: "HSU HUAN-HSUAN"
+linkTitle: "HSU HUAN-HSUAN"
+weight: 33
 type: docs
 description: >
-  システム情報系　教授  
+  短期交換留学生
 resources:
 - src: "**.{png,jpg}"
 ---
 
 {{< imgproc shadow Fill "160x160">}}
 {{< /imgproc >}}
+
 
 
 

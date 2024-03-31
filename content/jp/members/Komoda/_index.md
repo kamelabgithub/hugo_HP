@@ -1,7 +1,7 @@
 ---
-title: "小宮　晴大"
-linkTitle: "小宮　晴大"
-weight: 21
+title: "菰田　凌司"
+linkTitle: "菰田　凌司"
+weight: 22
 type: docs
 description: >
   博士前期課程　2年

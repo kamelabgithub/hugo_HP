@@ -1,10 +1,10 @@
 ---
 title: "山﨑　辰和"
 linkTitle: "山﨑　辰和"
-weight: 24
+weight: 25
 type: docs
 description: >
-  博士前期課程　1年
+  博士前期課程　2年
 resources:
 - src: "**.{png,jpg}"
 ---

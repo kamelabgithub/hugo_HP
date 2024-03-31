@@ -1,7 +1,7 @@
 ---
 title: "栗原　祐哉"
 linkTitle: "栗原　祐哉"
-weight: 31
+weight: 43
 type: docs
 description: >
   理工学群工学システム学類　4年

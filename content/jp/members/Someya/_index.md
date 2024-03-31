@@ -1,10 +1,10 @@
 ---
 title: "染谷　萌"
 linkTitle: "染谷　萌"
-weight: 22
+weight: 23
 type: docs
 description: >
-  博士前期課程　1年
+  博士前期課程　2年
 resources:
 - src: "**.{png,jpg}"
 ---

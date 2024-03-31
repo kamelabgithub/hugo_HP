@@ -1,10 +1,10 @@
 ---
 title: "村上　菜緒"
 linkTitle: "村上　菜緒"
-weight: 23
+weight: 24
 type: docs
 description: >
-  博士前期課程　1年
+  博士前期課程　2年
 resources:
 - src: "**.{png,jpg}"
 ---

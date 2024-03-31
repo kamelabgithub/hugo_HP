@@ -4,7 +4,7 @@ linkTitle: "亀田　敏弘"
 weight: 1
 type: docs
 description: >
-  システム情報系　教授  
+  システム情報系　教授　学長補佐  
 resources:
 - src: "**.{png,jpg}"
 ---

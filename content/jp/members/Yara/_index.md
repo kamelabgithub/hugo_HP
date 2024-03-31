@@ -1,10 +1,10 @@
 ---
 title: "屋良　朝章"
 linkTitle: "屋良　朝章"
-weight: 25
+weight: 26
 type: docs
 description: >
-  博士前期課程　1年
+  博士前期課程　2年
 resources:
 - src: "**.{png,jpg}"
 ---

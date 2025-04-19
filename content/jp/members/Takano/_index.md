@@ -4,7 +4,7 @@ linkTitle: "高野　桂汰"
 weight: 31
 type: docs
 description: >
-  博士前期課程　1年
+  博士前期課程　2年
 resources:
 - src: "**.{png,jpg}"
 ---

@@ -1,10 +1,10 @@
 ---
 title: "泉　陽介"
 linkTitle: "泉　陽介"
-weight: 41
+weight: 42
 type: docs
 description: >
-  理工学群工学システム学類　4年
+  博士前期課程　1年
 resources:
 - src: "**.{png,jpg}"
 ---

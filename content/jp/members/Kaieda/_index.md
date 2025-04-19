@@ -1,10 +1,10 @@
 ---
-title: "田中　仁"
-linkTitle: "田中　仁"
-weight: 32
+title: "海江田　隼"
+linkTitle: "海江田　隼"
+weight: 51
 type: docs
 description: >
-  博士前期課程　2年  
+  工学システム学類　4年
 resources:
 - src: "**.{png,jpg}"
 ---

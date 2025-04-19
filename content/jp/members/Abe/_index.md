@@ -1,10 +1,10 @@
 ---
-title: "田中　仁"
-linkTitle: "田中　仁"
-weight: 32
+title: "阿部　舞哉"
+linkTitle: "阿部　舞哉"
+weight: 41
 type: docs
 description: >
-  博士前期課程　2年  
+  博士前期課程　1年
 resources:
 - src: "**.{png,jpg}"
 ---

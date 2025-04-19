@@ -1,10 +1,10 @@
 ---
-title: "田中　仁"
-linkTitle: "田中　仁"
-weight: 32
+title: "舟山　祥一朗"
+linkTitle: "舟山　祥一朗"
+weight: 33
 type: docs
 description: >
-  博士前期課程　2年  
+  博士前期課程　2年
 resources:
 - src: "**.{png,jpg}"
 ---

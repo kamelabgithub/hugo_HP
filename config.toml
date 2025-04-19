@@ -1,5 +1,6 @@
 baseURL = "/"
-title = "Goldydocs"
+#title = "Goldydocs"
+title = "Innovative Systems Lab."
 
 enableRobotsTXT = true
 
@@ -79,6 +80,7 @@ id = "UA-00000000-0"
 # Weight used for sorting.
 #weight = 1
 [languages.jp]
+[languages.jp.params]
 title = "Innovative Systems Lab."
 description = "Innovative Systems Lab."
 languageName ="日本語"
